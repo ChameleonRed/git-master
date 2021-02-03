@@ -2,7 +2,7 @@
 
 Nazwy zespołów do wyboru: czerwoni, pomarańczowi, żółci, zieloni, niebiescy, fioletowi, purpurowi, różowi, biali, czarni.
 
-Pliki zespół tworzymy w folderze głównym np. czerwoni.txt.
+Pliki zespółu tworzymy w folderze głównym np. czerwoni.txt.
 
 # format pliku zespołu
 
