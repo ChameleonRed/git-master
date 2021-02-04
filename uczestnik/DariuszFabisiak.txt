@@ -1,0 +1,5 @@
+MS VS 2008 .Net / C# Form aplication, console app
+
+Windows CE / Mobile App Kolektory magazynowe
+
+Sybase SQL Anywhere / MS SQL Server / SQL SAP Hana 
