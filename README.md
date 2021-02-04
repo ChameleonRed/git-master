@@ -8,6 +8,8 @@ Pliki zespółu tworzymy w folderze głównym np. czerwoni.txt.
 
 # format pliku uczestnika
 
+Pliki umieszczamy w folderze /uczestnik - dla utrudnienia :)
+
 Imię nazwisko.
 
 W czym programujesz dość dobrze.
