@@ -1,1 +1,3 @@
 Uczę się programować w java. 
+HTML/CSS
+Bazy danych
