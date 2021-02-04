@@ -6,7 +6,7 @@ Nazwy zespołów do wyboru: czerwoni, pomarańczowi, żółci, zieloni, niebiesc
 
 Pliki zespółu tworzymy w folderze głównym np. czerwoni.txt.
 
-# format pliki uczestnika
+# format pliku uczestnika
 
 Imię nazwisko.
 
@@ -15,6 +15,9 @@ W czym programujesz dość dobrze.
 Ile lat programujesz.
 
 3-5 zadań o sobie i swoim doświadczeniu.
+
+Czy będziesz brał udziała aktywny (zadawał pytania, brał udziała w zespołowych ćwiczeniach)?
+Czy będziesz brał udziała pasywny (nie będę brał udziału w ćwieczeniach zespołowych)?
 
 # format pliku zespołu
 
