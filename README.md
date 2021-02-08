@@ -10,7 +10,7 @@ Pliki zespółu tworzymy w folderze głównym np. czerwoni.txt.
 
 Pliki umieszczamy w folderze /uczestnik - dla utrudnienia :)
 
-Imię nazwisko.
+Nazwa pliku np. Cezary Wagner.txt
 
 W czym programujesz dość dobrze.
 
@@ -22,6 +22,8 @@ Czy będziesz brał udziała aktywny (zadawał pytania, brał udziała w zespoł
 Czy będziesz brał udziała pasywny (nie będę brał udziału w ćwieczeniach zespołowych)?
 
 # format pliku zespołu
+
+Nazwa pliku np. Czerwoni.txt
 
 Lista osób.
 Oceny z zadań.
