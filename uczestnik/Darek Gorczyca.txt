@@ -4,4 +4,4 @@ niecałe 2,5 roku
 Na co dzień zajmuję się rozwojem i utzymanie aplikacji mobilnej i PWA (goFiber) dla Sprzedaży Aktywnej (Java, JavaScript).
 Oprócz tworzę narzędzia administracyjne związane z tą aplikacją.
 
-Będę aktywnym użytkownikiem. :)
+Będę aktywnym użytkownikiem. :) 
