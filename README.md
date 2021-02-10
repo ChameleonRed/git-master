@@ -4,7 +4,7 @@ Pliki powitania tworzymy w folderze głównym np. Cezary Wagner.txt
 
 Nazwy zespołów do wyboru: czerwoni, pomarańczowi, żółci, zieloni, niebiescy, fioletowi, purpurowi, różowi, biali, czarni.
 
-Pliki zespółu tworzymy w folderze głównym np. czerwoni.txt.
+Pliki zespołu tworzymy w folderze głównym np. czerwoni.txt.
 
 # format pliku uczestnika
 
@@ -18,8 +18,8 @@ Ile lat programujesz.
 
 3-5 zadań o sobie i swoim doświadczeniu.
 
-Czy będziesz brał udziała aktywny (zadawał pytania, brał udziała w zespołowych ćwiczeniach)?
-Czy będziesz brał udziała pasywny (nie będę brał udziału w ćwieczeniach zespołowych)?
+Czy będziesz brał udział aktywny (zadawał pytania, brał udział w zespołowych ćwiczeniach)?
+Czy będziesz brał udział pasywny (nie będę brał udziału w ćwiczeniach zespołowych)?
 
 # format pliku zespołu
 
