@@ -1,0 +1,15 @@
+Zarząd oczekuje, że w zespole osoby będą zamieniać się rolami co zadanie.
+Zarząd firmy w obliczu nowych zagrożeń bezpieczeństwa zlecił stworzenie generatora liczby pierwszych.
+
+Zadanie 0
+
+Główny programista:
+1. Tworzysz repozytorium na GitHub o nazwie primes-nazwa-zespołu.
+2. Dodajesz zespół i przedstawiciela zarządu do repozytorium.
+
+Kryteria oceny:
+- struktura (nazewnictwo, dokumentacja) (punkty 1-3)
+- uprawnienia (punkty 1-3)
+
+Główny programista:
+* Zapisuje punkty po ocenie w <nazwa-zespołu>.txt.
