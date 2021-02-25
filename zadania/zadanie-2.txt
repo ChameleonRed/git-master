@@ -1,0 +1,38 @@
+Zadanie 2
+
+Zarząd zmienia zadanie, że należy wyświetlić 240 liczb, w rzędach po 30 i 6.
+
+Wymagania:
+Prezentujesz najpierw 240 liczb z podsumowaniem w rzędach po 30.
+Rozdzielasz pustą linią.
+Potem prezentujesz 240 liczb z podsumowaniem w rzędach po 6.
+
+Główny programista:
+1. Tworzysz nową wersję v-1-2.
+2. Tworzysz gałęzie e-30-primes, e-6-primes.
+3. Zlecasz zmianę programistom.
+4. Łączysz kod.
+5. Uruchamiasz i zgłasza błędy zespołu.
+6. Łączysz poprawki od zespołu (nowa rewizja v-*-*-1, v-*-*-2, ...).
+
+I Programista wizualizacji:
+1. Rozwijasz kod e-30-primes dla wizualizacji w 30 rzędach.
+2. Kodujesz i zatwierdza kod.
+3. Wysyłasz kod na GitHub.
+4. Poprawiasz błędy na gałęziach bf-<nazwa-błędu>.
+
+II Programista wizualizacji:
+1. Rozwijasz kod e-12-primes dla wizualizacji w 12 rzędach.
+2. Kodujesz i zatwierdza kod.
+3. Wysyłasz kod na GitHub.
+4. Poprawiasz błędy na gałęziach bf-<nazwa-błędu>.
+
+Kryteria oceny:
+- jakość kodu (nazewnictwo, dokumentacja) (punkty 1-3)
+- brak błędów (punkty 1-3)
+- poprawne gałęzie (punkty 1-3)
+- praca zespołowa w Git (udział całego zespołu) (punkty 1-3)
+
+Główny programista:
+* Zapisujesz punkty po ocenie w <nazwa-zespołu>.txt.
+* Zatwierdzasz kod.
