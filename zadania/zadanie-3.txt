@@ -3,7 +3,7 @@ Zadanie 3
 Zarząd zmienia zadanie, że należy wyświetlić 300 cyfr, w rzędach po 30.
 Pojawia się nowa modna teoria "przeklętych" cyfr, która opanowuje dział bezpieczeństwa.
 
-Dodatkowo należy ukryć liczby z cyframi "przeklętymi" przez dział bezpieczeństwa.
+Dodatkowo należy ukryć liczby pierwsze z cyframi "przeklętymi" przez dział bezpieczeństwa.
 Wedle wierzeń zespołów dla pierwszego zespołu "przeklęta" jest cyfra 1,
 dla drugiego 2, itd. Liczby zawierające takie liczby muszą być ukryte.
 
