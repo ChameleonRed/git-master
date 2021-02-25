@@ -1,6 +1,6 @@
 Zadanie 2
 
-Zarząd zmienia zadanie, że należy wyświetlić 240 liczb, w rzędach po 30 i 6.
+Zarząd zmienia zadanie, że należy wyświetlić 240 liczb, w rzędach po 30 i 12.
 
 Wymagania:
 Prezentujesz najpierw 240 liczb z podsumowaniem w rzędach po 30.
